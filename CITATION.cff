@@ -1,11 +1,20 @@
 cff-version: 1.2.0
 message: If you use the content in this repository, please cite this repository using these metadata.
-title: 美国政府与政治 101
-abstract: 用简介易懂的语言，让你快速理解关键的美国政府和政治概念。
+title: "美国政府与政治 101"
+abstract: "用简介易懂的语言，让你快速理解关键的美国政府和政治概念。"
 authors:
   - family-names: Li
     given-names: Qingpeng
 license: CC-BY-NC-ND-4.0
 license-url: "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt"
 repository: "https://github.com/qingpeng9802/us-government-101"
-type: book
+preferred-citation:
+  title: "美国政府与政治 101"
+  abstract: "用简介易懂的语言，让你快速理解关键的美国政府和政治概念。"
+  authors:
+  - family-names: Li
+    given-names: Qingpeng
+  license: CC-BY-NC-ND-4.0
+  license-url: "https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.txt"
+  repository: "https://github.com/qingpeng9802/us-government-101"
+  type: book
