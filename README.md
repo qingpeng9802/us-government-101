@@ -4,7 +4,7 @@
 本书的目标是，读完后在看到美国政治新闻和评论文章的时候，能够反应出对应的美国政治制度概念，即建立出美国政治制度的认知图式 Schema.  
 
 ## 章节 Chapter
-- [Preface 前言](./Preface.md)
+- [Preface 前言](./book/Preface.md)
 - [placeholder]()
     - [placeholder]()
         - [placeholder]()
