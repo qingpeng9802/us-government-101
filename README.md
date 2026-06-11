@@ -37,3 +37,9 @@ You can find the full legal text in the [LICENSE](./LICENSE) file included in th
 
 For non-commercial purposes, please follow **CC BY-NC-ND 4.0**.  
 For any potential commercial purposes, please contact the copyright holder first.
+
+## Disclaimer
+The content in this repository is for informational, educational and academic purposes. 
+The views and opinions are my own and do not represent my employer or any affiliated institution.
+It does not constitute legal advice or establish an attorney-client relationship.
+It does not constitute professional tax, accounting or financial advice.
