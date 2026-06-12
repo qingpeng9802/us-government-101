@@ -28,16 +28,17 @@
         - [Governors and State Legislatures 州长和州立法机构]()
         - [County and City 郡和市]()
     
-- [US Government Architecture and three branches 美国政府架构与三大分支]()
-    - [Checks and balances 权力制衡]()
-        - [Government Shutdown 政府停摆]()
+- [US Government Architecture and Three Branches 美国政府架构与三大分支]()
+    - [Checks and Balances 权力制衡]()
     - [Bicameral Congress 两院制国会]()
         - [The Senate and the House of Representatives 参议院与众议院]()
         - [Structures, Powers, and Functions of Congress 国会结构、权力与功能]()
             - [The Power of the Purse 钱袋子权]()
+                - [Government Shutdown 政府停摆]()
                 > Mandatory vs. Discretionary Spending, Debt Ceiling, Continuing Resolution
             - [Impeachment 弹劾]()
             - [Pork-barrel Legislation and Logrolling 分肥立法与互投赞成]()
+                > Earmarks
         - [Congressional Elections 国会选举]()
         - [Congressional Representation 国会代表权]()
         - [Congressional Committees 国会委员会]()
@@ -65,7 +66,8 @@
         - [The Merit System 择优制度]()
         - [Discretionary and Rule-Making Authority 自由裁量权和规则制定权]()
         - [Holding the Bureaucracy Accountable 问责官僚机构]()
-            > iron triangle: interest groups, congressional committees, and bureaucratic agencies
+            > Iron Triangle: interest groups, congressional committees, and bureaucratic agencies
+            > Issue Networks
     - [The Courts 法院]()
         - [Legitimacy of the Judicial Branch 司法部门的合法性]()
         - [The Dual Court System 双重法院系统]()
@@ -76,8 +78,9 @@
         - [Judicial Review 司法审查]()
             - [Precedent and Stare Decisis 先例与遵循先例原则]()
         - [Judicial Activism vs. Judicial Restraint 司法能动主义与司法克制主义]()
-        - [Living Constitution or judicial pragmatism 活宪法或司法实用主义]()
-        - [Originalism, Textualism and Strict constructionism 原旨主义、文本主义与严格解释主义]()
+        - [Constitutional Interpretation 宪法解释学]()
+            - [Living Constitution or Judicial Pragmatism 活宪法或司法实用主义]()
+            - [Originalism, Textualism, and Strict Constructionism 原旨主义、文本主义与严格解释主义]()
         - [Chevron Deference and Major Questions Doctrine 雪佛龙尊重原则与重大问题原则]()
         - [Models of Judicial Decision Making 司法判决模式]()
         - [Shadow Docket 影子案卷]()
@@ -86,16 +89,17 @@
     - [American Political Ideologies 美式政治意识形态]()
         - [Neoconservatism 新保守主义]()
         - [Culture Wars 文化战争]()
-            > Marijuana Legalization 大麻合法化，Transgender people in sports
+            > Marijuana Legalization 大麻合法化，Transgender People in Sports
         - [Identity Politics and Tribalism 身份政治与部落主义]()
             - [Dog Whistle Politics 狗哨政治]()
             - [Woke 觉醒]()
+            - [Cancel Culture 取消文化]()
     - [Political Parties 政党]()
         - [Tea Party Movement 茶党运动]()
         - [Party Realignment 政党重组]()
         - [The Two-Party System 两党系统]()
             - [Establishment GOP vs. MAGA 建制共和党与MAGA]()
-            - [Duverger's law 杜瓦杰定律]()
+            - [Duverger's Law 杜瓦杰定律]()
                 > 改良方法 Ranked-Choice Voting
             - [Big-tent Party 大帐篷党派]()
             - [Partisan Polarization 党派极化]()
@@ -105,10 +109,10 @@
     - [Public Opinion 公共舆论]()
     - [Media 媒体]()
         - [Regulating the Media 媒体监管]()
-            > Fairness doctrine, Equal-time rule
+            > Fairness Doctrine, Equal-Time Rule
         - [Legacy Media vs. New Media 传统媒体与新媒体]()
-            > Washington Post, NY Times, LA Times, The Atlantic, 60 minutes, meet the press, state of the union
-            > social truth, x
+            > Washington Post, NY Times, LA Times, The Atlantic, 60 Minutes, Meet the Press, State of the Union
+            > Truth Social, X (formerly Twitter), Substack
         - [Podcast Politics 播客政治]()
     - [Political Activity 政治活动]()
     - [Think Tank 智库]()
@@ -118,7 +122,7 @@
         - [The Revolving Door 旋转门现象]()
         - [K Street K 街]()
         - [Key Interest Groups 关键利益集团]()
-            > NRA 美国全国步枪协会，AIPAC 美以公共事务委员会，PhRMA 美国药品研究与制造商协会，
+            > NRA 美国全国步枪协会，AIPAC 美以公共事务委员会，PhRMA 美国药品研究与制造商协会，AARP 美国退休人员协会
 
 - [Election and Voting 选举与投票]()
     - [Voting Behavior 投票行为]()
@@ -126,10 +130,11 @@
     - [Voter Turnout 选民投票率]()
     - [Campaigns 竞选]()
         - [Political Action Committee 政治行动委员会]()
-        - [501(c)(3) Organization 501(c)(3)组织]()
+        - [501(c)(3) and 501(c)(4) Organization 501(c)(3) 和 501(c)(4) 组织]()
         - [Primaries and Caucuses 初选与党内提名]()
         - [Oligarchy 寡头化]()
         - [Campaign Finance 竞选财政]()
+            > Citizens United v. FEC
     - [Gerrymandering 选区划分不公]()
 
 - [Civil Liberties and Civil Rights 公民自由与公民权利]()
@@ -141,10 +146,10 @@
             - [Fifth and Sixth Amendments: Due Process 第五和第六修正案：正当程序]()
             - [Fourteenth Amendment: Selective Incorporation 第十四修正案：选择性合并]()
     - [Civil Rights 公民权利]()
-        - [Asian American 亚裔美国人]()
+        - [Asian Americans 亚裔美国人]()
             - [Model Minority 模范少数族裔]()
             - [Bamboo Ceiling 竹子天花板]()
-        - [African American 非裔美国人]()
+        - [African Americans 非裔美国人]()
         - [Indigenous Groups 原住民群体]()
         - [Women's Rights 妇女权利]()
         - [Right to Privacy 隐私权]()
@@ -155,7 +160,6 @@
             - [Qualified Immunity 合格豁免权]()
         - [Affirmative Action 平权行动]()
         - [Voting Rights Act of 1965 1965年投票权法案]()
-        - [Cancel Culture 取消文化]()
 
 - [US Public Policy 美国公共政策]()
     - [Policy Making 政策制定]()
@@ -173,30 +177,33 @@
         - [Social Welfare 社会福利]()
             - [Interventionism vs. Free Market 干预主义与自由市场]()
             - [Main Social Programs 主要社会福利项目]()
-                > Medicaid, food stamps, TANF, SSI, WIC, old-age pensions and unemployment benefits, Section 8 医疗补助、食品券、临时援助贫困家庭计划、社会保障收入补助、妇女、婴儿和儿童特别营养补充计划、养老金、失业救济、住房选择券]()
+                > Medicaid, food stamps, TANF, SSI, WIC, old-age pensions and unemployment benefits, Section 8 医疗补助、食品券、临时援助贫困家庭计划、社会保障收入补助、妇女、婴儿和儿童特别营养补充计划、养老金、失业救济、住房选择券
         - [Housing 住房]()
             - [NIMBY and YIMBY 邻避主义与支持建房]()
                 > Zoning Laws
         - [Healthcare 医保]()
-    - [Foreign Policies 外交政策]()
+            > ACA Obamacare, Medicare for All Act
+    - [Foreign Policy 外交政策]()
         - [Offshoring 离岸外包]()
         - [Neo-Isolationism and Isolationism 新孤立主义与孤立主义]()
         - [Interventionism 干预主义]()
         - [Monroe Doctrine 门罗主义]()
         - [Middle East 中东]()
-        - [China–United States relations 中美关系]()
+        - [U.S.-China Relations 美中关系]()
             - [The Thucydides Trap 修昔底德陷阱]()
 
 - [Appendix 附录]()
     - [Declaration of Independence 独立宣言]()
     - [Federalist Papers 联邦党人文集]()
-    - [Selected Supreme Court Cases 精选最高法院案例]()
+    - [Selected Supreme Court Landmarks 精选最高法院案例]()
 
 ## 受众 Audience
-- 希望看懂美国政治新闻的人  
+- 希望看懂美国政治新闻  
 建议关注 Voting System, Presidential System 和 Federal Reserve Board  
-- 对美国政治制度感兴趣的人  
+- 对美国政治制度感兴趣  
 建议关注 Voting System, Presidential System 和 The Founding history  
+- 国际商务与投资人士  
+建议关注 The Courts, US Public Policy 和 Interest Groups and Lobbying
 - 留学生  
 建议关注 Judicial System 和 Immigration 章节  
 - 新移民和归化入籍人士  
